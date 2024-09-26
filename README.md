@@ -1,1 +1,1 @@
-# test_repo
+# ubuntu_repo
